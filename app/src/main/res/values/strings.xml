@@ -2,4 +2,12 @@
     <string name="app_name">LoginGoogle-Facebook</string>
     <string name="login_google">Login Google</string>
     <string name="sign_out">Sign out</string>
+    <string name="login_facebook">Login Facebook</string>
+
+    <string name="facebook_app_id">987064285422574</string>
+    <string name="fb_login_protocol_scheme">fb987064285422574</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="click_facebook">Click Facebook</string>
+
+
 </resources>
